@@ -5,7 +5,7 @@ import Layout from './components/Shared/Layout';
 function App() {
   return (
   <Layout>
-    Admin
+    <h1>Admin</h1>
   </Layout>
   );
 }
