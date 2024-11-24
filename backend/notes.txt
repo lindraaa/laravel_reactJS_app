@@ -1,0 +1,14 @@
+1. Download PHP
+2. XAMPP
+3. Composer 
+4. Go to laravel Documentation
+	composer create-project laravel/laravel:^8.0 example-app
+ 	cd example-app
+ 	php artisan serve
+
+
+
+clonig repositrory 
+1. composer install - to install all the php dependecies
+2. cp .env.example .env
+3. php artisan key:generate
