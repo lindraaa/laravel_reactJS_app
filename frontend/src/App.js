@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Layout from './components/Shared/Layout';
+import Accounts from './pages/accounts';
 
 function App() {
   return (
   <Layout>
-    <h1>Admin</h1>
+    <Accounts></Accounts>
   </Layout>
   );
 }
